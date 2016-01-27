@@ -1,6 +1,2 @@
 # sandbox
-<<<<<<< HEAD
-this is shovel  
-=======
-this is pail
->>>>>>> pail
+shovel and pail belong in the sandbox  
