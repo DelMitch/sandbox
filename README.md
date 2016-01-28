@@ -1,11 +1,4 @@
 # sandbox
-shovel and pail belong in the sandbox  
-<<<<<<< HEAD
-=======
+the castle belongs in the sandbox  
 
-<<<<<<< HEAD
-pail is in the sandbox  
->>>>>>> pail
-=======
-shovel is in the sandbox, too  
->>>>>>> shovel
+castle is in the sandbox  
